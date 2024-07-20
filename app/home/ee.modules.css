@@ -1,0 +1,35 @@
+.men{
+    background: khaki;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+    width: 100%;
+}
+.links{
+    margin: 8px;
+
+}
+ul {
+    display: flex;
+
+}
+@media (max-width:700px) {
+    ul{
+        display: block;
+        height: 100vh;
+        background: black;
+        width: 700px;
+        top: 0;
+        right: 0;
+        text-align: left;
+        z-index: 2;
+        color:blanchedalmond;
+        
+    }
+    ul li .links{
+        margin: 10;
+    }
+    
+    
+}
