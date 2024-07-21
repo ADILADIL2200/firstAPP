@@ -44,11 +44,11 @@ export default function add() {
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="flex flex-col p-3 md:p-8  bg-slate-800 ">
                         <p className="m-8 bg-slate-800 max-w-80 text-blue-100 text-xl text-lefts"> build the most efficien <span className="text-lime-300">UI</span> based on single page application and to know more visit this  <Link className="text-blue-700" href='https://react.dev/'> link</Link></p>
-                        <Image className="mt-8" src='/lll.png 'width='500' height='300' alt="gg"></Image>
+                        <Image className="mt-8" src='/lll.jpeg 'width='500' height='300' alt="ggknkn"></Image>
                     </div>
                     <div className="bg-slate-800 flex flex-col p-3 md:p-8  ">
                         <p className="m-8 text-blue-100 max-w-80" >  build a best web experience that is adaptive<br/> with  <span className="text-green-500"> SEO standrds</span> to know more visit this <Link className="text-blue-700" href='https://nextjs.org/'>link</Link></p>
-                        <Image className="mt-8" src='/nnn.png 'width='400' height='280' alt="gg"></Image>
+                        <Image className="mt-8" src='/nnn.jpeg 'width='400' height='280' alt="ggll"></Image>
                     </div>
                     <div className="bg-slate-800 flex flex-col p-3 md:p-8  ">
                         <p className="m-8 text-blue-100 mb-1 max-w-80"> if you have full understending in css you need to learn <br/> <span className="text-green-500">tailwind css</span> framework it is efficient and fast  to know more visit this <Link href='https://tailwindcss.com/'className="text-blue-700">link</Link></p>
@@ -70,15 +70,15 @@ export default function add() {
                 <div className="flex flex-col md:flex-row">
                     <div className="flex flex-col p-3 md:p-8  bg-slate-800 ">
                         <p className="m-8 bg-slate-800 max-w-80 text-blue-100 ">  if you are famillar with js <span className="text-lime-300">node js </span>  is your first  choice  <br/>to build modern web backend aplication to know more visit this link <Link className="text-blue-700" href='https://nodejs.org/'> link</Link></p>
-                        <Image className="mt-8" src='/node.png 'width='220' height='300' alt="gg"></Image>
+                        <Image className="mt-8" src='/node.jpeg 'width='220' height='300' alt="llgg"></Image>
                     </div>
                     <div className="bg-slate-800 flex flex-col p-3 md:p-8  ">
                         <p className="m-8 text-blue-100 max-w-80"> if you are famillar with python  <span className="text-green-500"> django</span>is the best choice for the backend devloper  to know more visit this <Link className="text-blue-700" href='https://www.djangoproject.com/'>link</Link></p>
-                        <Image className="mt-8" src='/django.png 'width='300' height='380' alt="gg"></Image>
+                        <Image className="mt-8" src='/django.jpeg 'width='300' height='380' alt="gg"></Image>
                     </div>
                     <div className="bg-slate-800 flex flex-col p-3 md:p-8  ">
                         <p className="m-8 text-blue-100 mb-1 max-w-80"> if you came from php  and you are interested <br/>of being a backeend devloper <span className="text-green-500">laravel </span> is your first choice to know more visit this <Link href='https://laravel.com/'className="text-blue-700">link</Link></p>
-                        <Image className="mt-8 " src='/images.png'width='300' height='300' alt="gg"></Image> 
+                        <Image className="mt-8 " src='/images.jpeg'width='300' height='300' alt="gg"></Image> 
                     </div>
             
             
